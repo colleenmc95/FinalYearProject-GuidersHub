@@ -1,2 +1,2 @@
 # FinalYearProject-GuidersHub
-Final year project files
+This is a repo for my final year project, Guiders Hub. 
